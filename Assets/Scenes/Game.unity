@@ -313,6 +313,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 1989886256}
     m_Modifications:
     - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 14108dbe05070bb47baef4618b30380b, type: 3}
+    - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_Color.b
       value: 1
       objectReference: {fileID: 0}
@@ -411,6 +419,10 @@ PrefabInstance:
     - target: {fileID: 2558097502338875516, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_Name
       value: Button (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3967579651166698513, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Interactable
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3967579651166698513, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -878,7 +890,7 @@ MonoBehaviour:
   - {fileID: 996048194}
   - {fileID: 630579217}
   - {fileID: 625614692}
-  defaultAnswerSprite: {fileID: 21300000, guid: be7c6572155f4584d929ce8e0f8e44cb, type: 3}
+  defaultAnswerSprite: {fileID: 21300000, guid: 14108dbe05070bb47baef4618b30380b, type: 3}
   correctAnswerSprite: {fileID: 21300000, guid: be7c6572155f4584d929ce8e0f8e44cb, type: 3}
 --- !u!1 &996048194 stripped
 GameObject:
@@ -892,6 +904,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1989886256}
     m_Modifications:
+    - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 14108dbe05070bb47baef4618b30380b, type: 3}
     - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -991,6 +1011,10 @@ PrefabInstance:
     - target: {fileID: 2558097502338875516, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_Name
       value: Button (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3967579651166698513, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Interactable
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3967579651166698513, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -1246,6 +1270,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 1989886256}
     m_Modifications:
     - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 14108dbe05070bb47baef4618b30380b, type: 3}
+    - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_Color.b
       value: 1
       objectReference: {fileID: 0}
@@ -1344,6 +1376,10 @@ PrefabInstance:
     - target: {fileID: 2558097502338875516, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_Name
       value: Button (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3967579651166698513, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Interactable
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3967579651166698513, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -1561,6 +1597,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 1989886256}
     m_Modifications:
     - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 14108dbe05070bb47baef4618b30380b, type: 3}
+    - target: {fileID: 270920763268179901, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_Color.b
       value: 1
       objectReference: {fileID: 0}
@@ -1659,6 +1703,10 @@ PrefabInstance:
     - target: {fileID: 2558097502338875516, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_Name
       value: Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 3967579651166698513, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
+      propertyPath: m_Interactable
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3967579651166698513, guid: cec5a88e0867b8348b3c6f7ba5abfe59, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
